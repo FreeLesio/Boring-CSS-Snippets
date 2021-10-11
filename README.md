@@ -15,7 +15,7 @@ List of snippets in order :
 
 -------------------------------------------------------------------------------------
 
-8 extraits CSS ennuyeux à utiliser à la place d'une page de dégradation. Vous pouvez l'utiliser pour le poisson d'avril ou pour piéger quelqu'un. Ils ont été conçus de manière suffisamment générique pour être compatibles avec la plupart des sites Web.
+8 ennuyeux extraits CSS à utiliser à la place d'une page de dégradation. Vous pouvez l'utiliser en tant que poisson d'avril ou pour piéger quelqu'un. Ils ont été conçus de manière suffisamment générique pour être compatibles avec la plupart des sites Web.
 
 Liste des extraits dans l'ordre :
 
