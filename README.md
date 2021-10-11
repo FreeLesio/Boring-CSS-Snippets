@@ -15,17 +15,17 @@ List of snippets in order :
 
 -------------------------------------------------------------------------------------
 
-8 ennuyeux extraits CSS à utiliser à la place d'une page de dégradation. Vous pouvez l'utiliser en tant que poisson d'avril ou pour piéger quelqu'un. Ils ont été conçus de manière suffisamment générique pour être compatibles avec la plupart des sites Web.
+8 ennuyeux extraits CSS à utiliser à la place d'une page de dégradation. Vous pouvez l'utiliser en tant que poisson d'avril ou pour piéger quelqu'un. Ils ont été conçus de manière suffisamment générique pour être compatibles avec la plupart des sites web.
 
 Liste des extraits dans l'ordre :
 
 1 - Fait légèrement pivoter l'écran<br>
-2 - Changer toutes les polices pour "Comic Sans MS"<br>
-3 - Changer les couleurs des liens en rose<br>
-4 - Changer toutes les couleurs du site en boucle<br>
-5 - Rendre toutes les couleurs en niveaux de gris<br>
-6 - Secouez la page<br>
-7 - Remplacer le curseur par défaut par un curseur en attente<br>
-8 - Saturer toutes les couleurs
+2 - Change toutes les polices pour "Comic Sans MS"<br>
+3 - Change les couleurs des liens en rose<br>
+4 - Change toutes les couleurs du site en boucle<br>
+5 - Change toutes les couleurs en niveaux de gris<br>
+6 - Secoue la page<br>
+7 - Remplace le curseur par défaut par un curseur en attente<br>
+8 - Sature toutes les couleurs
 
 > Je ne suis en aucun cas responsable de vos actions avec ce programme. Ce programme est partagé avec vous à des fins éducatives. Utilisez-le avec précaution et ne l'utilisez pas à des fins malveillantes.
