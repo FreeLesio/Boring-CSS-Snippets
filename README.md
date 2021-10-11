@@ -9,7 +9,8 @@ List of snippets in order :
 5 - Make all colors grayscale<br>
 6 - Shake the page<br>
 7 - Replace the default cursor by a waiting cursor<br>
-8 - Saturate all colors
+8 - Saturate all colors<br>
+9 - Make the page blur
 
 > I am in no way responsible for your actions with this program. This program is shared with you for educational purposes. Use it with care and do not use it for malicious purposes.
 
@@ -26,6 +27,7 @@ Liste des extraits dans l'ordre :
 5 - Change toutes les couleurs en niveaux de gris<br>
 6 - Secoue la page<br>
 7 - Remplace le curseur par défaut par un curseur en attente<br>
-8 - Sature toutes les couleurs
+8 - Sature toutes les couleurs<br>
+9 - Rend la page floue
 
 > Je ne suis en aucun cas responsable de vos actions avec ce programme. Ce programme est partagé avec vous à des fins éducatives. Utilisez-le avec précaution et ne l'utilisez pas à des fins malveillantes.
