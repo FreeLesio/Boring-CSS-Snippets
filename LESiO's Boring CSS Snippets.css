@@ -1,0 +1,73 @@
+/* Pivote légèrement l'écran
+Slightly rotates the screen */
+
+* {
+	transform: rotate(0.025deg);
+}
+
+/* Modifie les polices en une meilleure police
+Change fonts to a better font */
+
+* {
+	font-family: "Comic Sans MS"!important;
+}
+
+/* Changer la couleur des liens en couleur "Barbie"
+Change links colors to "Barbie" color */
+
+a {
+	color: #FF69B4!important;
+}
+
+/* Avez-vous déjà vu un site internet sous LSD ?
+Have you ever seen a website using LSD ? */
+
+* {
+	animation: AlbertHofmann 10s alternate infinite;
+}
+
+@keyframes AlbertHofmann {
+	0% {
+		filter: hue-rotate(0deg);
+	}
+	100% {
+		filter: hue-rotate(360deg);
+	}
+}
+
+/* Pour les vieux qui disent "C'était mieux avant"
+For the old folks who say "It was better before" */
+
+html {
+	filter: grayscale(100%);
+}
+
+/* Pas de mauvaises blague à ce sujet
+No bad joke about it */
+
+* {
+	animation: Hiroshima 0.05s infinite alternate;
+}
+
+@keyframes Hiroshima {
+	0% {
+		transform: rotate(-0.5deg);
+	}
+	100% {
+		transform: rotate(0.5deg);
+	}
+}
+
+/* Veuillez patienter
+Please wait */
+
+* {
+	cursor: progress!important;
+}
+
+/* Les couleurs flashy sont pour les gays
+Flashy colors are for gays */
+
+* {
+	filter: saturate(200%);
+}
