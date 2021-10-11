@@ -71,3 +71,10 @@ Flashy colors are for gays */
 * {
 	filter: saturate(200%);
 }
+
+/* J'ai besoin de nouvelles lunettes
+I need new glasses */
+
+* {
+	filter: blur(0.30px);
+}
