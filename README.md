@@ -1,4 +1,4 @@
-8 boring CSS snippets to use in place of a degradation page. You can use it for April Fool's Day or to trap someone. They have been designed generically enough to be compatible with most websites.
+9 boring CSS snippets to use in place of a degradation page. You can use it for April Fool's Day or to trap someone. They have been designed generically enough to be compatible with most websites.
 
 List of snippets in order :
 
