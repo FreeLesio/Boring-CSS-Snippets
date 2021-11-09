@@ -82,6 +82,6 @@ I need new glasses */
 /* Pour répendre l'amour sur terre, commence par internet
 To spread love on earth, start by internet */
 
-*:before, *:after
+*:before, *:after {
 	content: "❤️";
 }
