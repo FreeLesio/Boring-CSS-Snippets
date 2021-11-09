@@ -1,4 +1,4 @@
-9 boring CSS snippets to use in place of a degradation page. You can use it for April Fool's Day or to trap someone. They have been designed generically enough to be compatible with most websites.
+10 boring CSS snippets to use in place of a degradation page. You can use it for April Fool's Day or to trap someone. They have been designed generically enough to be compatible with most websites.
 
 List of snippets in order :
 
@@ -11,6 +11,7 @@ List of snippets in order :
 7 - Replace the default cursor by a waiting cursor<br>
 8 - Saturate all colors<br>
 9 - Make the page blur
+10 - Add ❤️ Everywhere
 
 > I am in no way responsible for your actions with this program. This program is shared with you for educational purposes. Use it with care and do not use it for malicious purposes.
 
@@ -29,5 +30,6 @@ Liste des extraits dans l'ordre :
 7 - Remplace le curseur par défaut par un curseur en attente<br>
 8 - Sature toutes les couleurs<br>
 9 - Rend la page floue
+10 - Ajoute des ❤️ partout
 
 > Je ne suis en aucun cas responsable de vos actions avec ce programme. Ce programme est partagé avec vous à des fins éducatives. Utilisez-le avec précaution et ne l'utilisez pas à des fins malveillantes.
