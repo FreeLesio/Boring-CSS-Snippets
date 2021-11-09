@@ -22,7 +22,7 @@ a {
 /* Avez-vous déjà vu un site internet sous LSD ?
 Have you ever seen a website using LSD ? */
 
-* {
+img {
 	animation: AlbertHofmann 10s alternate infinite;
 }
 
