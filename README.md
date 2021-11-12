@@ -10,7 +10,7 @@ List of snippets in order :
 6 - Shake the page<br>
 7 - Replace the default cursor by a waiting cursor<br>
 8 - Saturate all colors<br>
-9 - Make the page blur
+9 - Make the page blur<br>
 10 - Add ❤️ Everywhere
 
 > I am in no way responsible for your actions with this program. This program is shared with you for educational purposes. Use it with care and do not use it for malicious purposes.
